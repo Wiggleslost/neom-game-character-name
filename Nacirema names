@@ -37,42 +37,42 @@ Here is a pre-list of character names with possibility of some last names added 
 35. Bexeth - Skeleton
 36. Bexwyn - Drow Elf
 37. Bexree - Gray Orc
-38. Bexos - (they might really live in Greenland! They have those tusks in their nose that is where the body ritual parts will come into play in-game)
+38. Bexos - Pixie
 39. Bexal - Gully Dwarf
-40. Bexium
-41. Bexvek
+40. Bexium - Thinker Gnome
+41. Bexvek - Valley Elf
 42. Bexsha - Black Human
 43. Bexori - Forest Gnome
 44. Bexine - Pixie
 45. Bexeus - Stone Dragon
-46. Bexar
-47. Bextel
-48. Bexmir
+46. Bexar - Brown Human
+47. Bextel - Aquatic Elf
+48. Bexmir - Brownie
 49. Bexdas - Valley Elf
-50. Bexory
+50. Bexory - Mountain Dwarf
 51. Caian - Brown Human
 52. Caien - Wild Elf
-53. Caiis
-54. Caia
+53. Caiis - White Human
+54. Caia - Aquatic Elf
 55. Caio - Brown Human
 56. Caiun - Gully Dwarf
 57. Caiir - Aquatic Elf
-58. Caiel
+58. Caiel - Ghoul
 59. Caion - White Human
-60. Caieth
-61. Caiwyn
-62. Cairee
+60. Caieth - Skeleton
+61. Caiwyn - Ender Dragon
+62. Cairee - Brownie
 63. Caios - Brown Human
-64. Caial
-65. Caiium
-66. Caivek 
-67. Caisha
+64. Caial - Ancient Dragon
+65. Caiium - Sun Elf
+66. Caivek - Valley Elf
+67. Caisha - Black Human
 68. Caiori - Brown Human
 69. Caiine - Gray Orc
 70. Caieus - Sun Elf
 71. Caiar - Fairy
 72. Caitel - Gully Dwarf
-73. Caimir
+73. Caimir - Mountain Dwarf
 74. Caidas
 75. Caio ry - Mummy
 76. Dorian - White Human
@@ -97,7 +97,7 @@ Here is a pre-list of character names with possibility of some last names added 
 95. Dorieus
 96. Doriar
 97. Doritel
-98. Dorimir
+98. Dorimir - Mountain Dwarf
 99. Doridas
 100. Dorory
 101. Enoan - Nomad
@@ -106,7 +106,7 @@ Here is a pre-list of character names with possibility of some last names added 
 104. Enoa
 105. Enoo - Knoll Gnome
 106. Enoun - Gully Dwarf
-107. Enoir
+107. Enoir - Mountain Dwarf
 108. Enoel - Forest Gnome
 109. Enoon - Brown Human
 110. Enoeth - Skeleton
@@ -172,7 +172,7 @@ Here is a pre-list of character names with possibility of some last names added 
 170. Geoeus
 171. Geoar - Orog
 172. Geotel
-173. Geomir
+173. Geomir - Mountain Dwarf
 174. Geodas - Sun Elf
 175. Geoory
 176. Halaan
@@ -197,7 +197,7 @@ Here is a pre-list of character names with possibility of some last names added 
 195. Halaeus
 196. Halaar
 197. Halatel
-198. Halamir
+198. Halamir - Mountain Dwarf
 199. Haladas
 200. Halaory - Brown Human
 201. Irian - Gray Dwarf
@@ -222,7 +222,7 @@ Here is a pre-list of character names with possibility of some last names added 
 220. Irieus
 221. Iriar
 222. Iritel
-223. Irimir
+223. Irimir - Mountain Dwarf
 224. Iridas
 225. Ir iory - Mummy
 226. Joran
@@ -247,7 +247,7 @@ Here is a pre-list of character names with possibility of some last names added 
 245. Joreus
 246. Jorar
 247. Jortel - Brown Human
-248. Jormir
+248. Jormir - Mountain Dwarf
 249. Jordas
 250. Jorory - Orog
 251. Kaean
@@ -272,7 +272,7 @@ Here is a pre-list of character names with possibility of some last names added 
 270. Kaeeus - Gully Dwarf
 271. Kaear - Fairy
 272. Kaetel
-273. Kaemir
+273. Kaemir - Mountain Dwarf
 274. Kaedas
 275. Kaeory
 276. Lumoan - Ender Dragon
@@ -281,7 +281,7 @@ Here is a pre-list of character names with possibility of some last names added 
 279. Lumoa
 280. Lumoo - Gully Dwarf
 281. Lumoun
-282. Lumoir
+282. Lumoir - Mountain Dwarf
 283. Lum oel - Mummy
 284. Lumoon
 285. Lum oeth - Mummy
@@ -322,7 +322,7 @@ Here is a pre-list of character names with possibility of some last names added 
 320. Miraeus
 321. Miraar
 322. Miratel
-323. Miramir
+323. Miramir - Mountain Dwarf
 324. Miradas
 325. Miraory
 326. Noxan
@@ -347,7 +347,7 @@ Here is a pre-list of character names with possibility of some last names added 
 345. Noxeus
 346. Noxar
 347. Noxtel
-348. Noxmir
+348. Noxmir - Mountain Dwarf
 349. Noxdas
 350. Noxory
 351. Oroan - Gray Orc
@@ -372,7 +372,7 @@ Here is a pre-list of character names with possibility of some last names added 
 370. Oroeus
 371. Oroar
 372. Orotel
-373. Oromir
+373. Oromir - Mountain Dwarf
 374. Oro das - Mummy
 375. O r oory - Mummy
 376. Pavian
@@ -447,7 +447,7 @@ Here is a pre-list of character names with possibility of some last names added 
 445. Rilaeus
 446. Rilaar
 447. Rilatel
-448. Rilamir
+448. Rilamir - Mountain Dwarf
 449. Riladas
 450. Rilaory
 451. Saroan
@@ -456,7 +456,7 @@ Here is a pre-list of character names with possibility of some last names added 
 454. Saroa - Orog
 455. Saroo - Relbeek Gnome
 456. Saroun
-457. Saroir
+457. Saroir - Mountain Dwarf
 458. Saroel
 459. Saroon
 460. Saroeth - Drow Elf
@@ -472,7 +472,7 @@ Here is a pre-list of character names with possibility of some last names added 
 470. Saroeus - Fairy
 471. Saroar
 472. Sarotel
-473. Saromir
+473. Saromir - Mountain Dwarf
 474. Sarodas
 475. Saroory
 476. Tavi an - Mummy
@@ -497,7 +497,7 @@ Here is a pre-list of character names with possibility of some last names added 
 495. Tavieus - Nomad
 496. Taviar - White Human
 497. TAvitel - Ghost
-498. Tavimir
+498. Tavimir - Mountain Dwarf
 499. Tavidas
 500. Tav iory - Mummy
 501. Ulaan
@@ -509,7 +509,7 @@ Here is a pre-list of character names with possibility of some last names added 
 507. Ulair
 508. Ulael - Brownie
 509. Ulaon
-510. Ulaeth
+510. Ulaeth - Skeleton
 511. Ulawyn
 512. Ularee - Gully Dwarf
 513. Ulaos
@@ -522,7 +522,7 @@ Here is a pre-list of character names with possibility of some last names added 
 518. Ulaeus
 519. Ulaar
 520. Ulatel
-521. Ulamir
+521. Ulamir - Mountain Dwarf
 522. Uladas
 523. Ulaory
 524. Vesp an - Mummy
@@ -541,13 +541,13 @@ Here is a pre-list of character names with possibility of some last names added 
 537. Vespal - Brownie
 538. Vespium
 539. Vespvek
-540. Vespsha
-541. Vespori
+540. Vespsha - Black Human
+541. Vespori - Mountain Dwarf
 542. Vespine
 543. Vespeus
 544. Vespar
 545. Vesptel
-546. Vespmir
+546. Vespmir - Mountain Dwarf
 547. Vespdas
 548. Vespory
 549. Wrenan
@@ -556,7 +556,7 @@ Here is a pre-list of character names with possibility of some last names added 
 552. Wrena
 553. Wreno - Black Human
 554. Wrenun
-555. Wrenir
+555. Wrenir - Mountain Dwarf
 556. Wrenel
 557. Wrenon
 558. Wreneth - Skeleton
@@ -572,34 +572,34 @@ Here is a pre-list of character names with possibility of some last names added 
 568. Wreneus
 569. Wrenar
 570. Wrentel
-571. Wrenmir
+571. Wrenmir - Mountain Dwarf
 572. Wrendas - Brownie
 573. Wrenory
-574. Xaraan
-575. Xaraen
-576. Xarais
-577. Xaraa
+574. Xaraan - Elder Dragon
+575. Xaraen - Gray Dwarf
+576. Xarais - Ender Dragon
+577. Xaraa - Valley Elf
 578. Xarao - Orog
-579. Xaraun
-580. Xarair
-581. Xarael - Brownie
-582. Xaraon
-583. Xaraeth
-584. Xarawyn
-585. Xararee
-586. Xaraos
-587. Xaraal
-588. Xaraium
-589. Xaravek
-590. Xarasha
-591. Xaraori
-592. Xaraine
-593. Xaraeus
-594. Xaraar
-595. Xaratel
-596. Xaramir
-597. Xaradas
-598. Xaraory
+579. Xaraun - Brownie
+580. Xarair - Elder Dragon
+581. Xarael - Gray Dwarf
+582. Xaraon - Mountain Dwarf
+583. Xaraeth - Skeleton
+584. Xarawyn - Gray Dwarf
+585. Xararee - Mountain Dwarf
+586. Xaraos - Valley Elf
+587. Xaraal - Elder Dragon
+588. Xaraium - Mountain Dwarf
+589. Xaravek - Gray Dwarf
+590. Xarasha - Black Human
+591. Xaraori - Elder Dragon
+592. Xaraine - Ender Dragon
+593. Xaraeus - Stone Dragon
+594. Xaraar - Ancient Dragon
+595. Xaratel - Ender Dragon
+596. Xaramir - Mountain Dwarf
+597. Xaradas - Gray Dwarf
+598. Xaraory - Ender Dragon
 599. Yelan
 600. Yelen
 601. Yelis
