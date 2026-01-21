@@ -2,5 +2,5 @@ messages:
   - role: system
     content: You are a helpful assistant
   - role: user
-    content: 'Pull out the action items from this meeting transcript: {{input}}'
+    content: 'Pull out the action items from this transcript: {{input}}'
 model: openai/gpt-4o
